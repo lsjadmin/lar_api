@@ -100,7 +100,7 @@ class UserController extends Controller
     }
     //用户中心
     public function user(){
-        echo "aa";
+        echo "aaaaaa";
     }
 
 }
